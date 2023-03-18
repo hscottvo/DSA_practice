@@ -1,0 +1,2 @@
+# Scott's DSA Practice
+Starting a (hopefully) daily practice of DSA practice problems, mainly through leetcode. Maybe I'll look through other sources or try other languages if I end up being interested.
