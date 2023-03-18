@@ -11,3 +11,5 @@ From [this leetcode problem](https://leetcode.com/problems/longest-palindromic-s
 * Don't care about multiple solutions, just any solution that has the max length
 * Keep track of the most recent palindromic substring, since we iterate by length
 * Can use dp table instead of recursion for efficiency
+### Time Complexity
+This iterates over the entire upper triangular matris with size $n$. So, there are $\dfrac{n^2}{2} \approx n^2$ accesses to the table. $O(n^2)$.
