@@ -1,4 +1,4 @@
-# Longest Palindrome
+# Longest Palindrome - Completed 18 March 2023
 From [this leetcode problem](https://leetcode.com/problems/longest-palindromic-substring/)
 ## Summary
 * Dynamic programming
