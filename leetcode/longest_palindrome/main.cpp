@@ -3,7 +3,7 @@
 #include <vector>
 
 using namespace std;
-void print_2d(vector<vector<bool>> in)
+void print_2d(vector<vector<bool> > in)
 {
     for (unsigned int i = 0; i < in.size(); i++)
     {
@@ -21,7 +21,7 @@ string solve(string str)
     unsigned int j;
     unsigned int ret_l;
     unsigned int ret_r;
-    vector<vector<bool>> dp(str.size(), vector<bool>(str.size(), false));
+    vector<vector<bool> > dp(str.size(), vector<bool>(str.size(), false));
     for (unsigned int start_col = 0; start_col < str.size(); start_col++)
     {
         delta = str.size() - start_col;
