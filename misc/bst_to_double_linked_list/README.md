@@ -1,0 +1,1 @@
+- from (https://codercareer.blogspot.com/2011/09/interview-question-no-1-binary-search.html?m=1)[this]
